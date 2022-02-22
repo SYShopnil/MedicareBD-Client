@@ -1,0 +1,17 @@
+div#service {
+  padding-top: 8%;
+  padding-bottom: 8%;
+  background-color: #9dcdcd;
+}
+#service h1 {
+  font-size: 40px;
+}
+#service:hover > h1 {
+  font-size: 55px;
+  transition: 0.5s ease-in;
+  text-transform: uppercase;
+  text-decoration: underline overline;
+}
+.card {
+  margin-top: -7%;
+}

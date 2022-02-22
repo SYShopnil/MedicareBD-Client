@@ -1,0 +1,24 @@
+.nav-link {
+  color: rgb(51, 44, 44) !important;
+  font-size: 20px;
+}
+.nav-link:hover {
+  text-decoration: underline;
+  color: white !important;
+  background-color: rgb(71, 181, 201);
+  transition: 0.5s;
+}
+p.nav-link {
+  background: rgb(121, 224, 224);
+  padding: 0%;
+  box-shadow: 5px 5px 5px 5px white !important;
+}
+nav.navbar.navbar-expand-sm.fixed-top.p-3 {
+  box-shadow: 10px 10px 10px 10px rgb(151 192 202);
+  width: 95%;
+  background-color: white;
+  margin: 1% auto;
+}
+a.nav-link.bg-danger {
+  margin-left: 50px;
+}

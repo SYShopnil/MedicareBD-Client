@@ -1,0 +1,21 @@
+.about {
+  margin-top: -14%;
+  padding-top: 116px;
+  padding-bottom: 100px;
+  background-color: #cfecea;
+}
+#about-title {
+  width: 50%;
+  font-size: 40px;
+  margin: 5% auto;
+}
+.about:hover > #about-title {
+  font-size: 55px;
+  transition: 0.5s;
+  text-transform: uppercase;
+  text-decoration: underline overline;
+  transition-timing-function: ease-in;
+}
+img {
+  width: 120%;
+}

@@ -1,0 +1,26 @@
+.contact {
+  padding-top: 50px;
+  padding-bottom: 100px;
+  background-color: #f1f2f3;
+}
+#contact-title {
+  width: 50%;
+  margin: 10px auto;
+}
+#form {
+  margin: 10px auto;
+}
+.footerImg {
+  width: 100%;
+  height: 100%;
+  margin-top: -5%;
+}
+#floatingTextarea2 {
+  height: 200px;
+}
+.contact:hover > #contact-title {
+  font-size: 55px;
+  transition: 0.5s ease-in;
+  text-transform: uppercase;
+  text-decoration: underline overline;
+}
